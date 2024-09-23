@@ -2,8 +2,8 @@ const questions = [
     {
         question: "Best college of AKTU ?",
          answers: [
-            {text: "AKG" , correct: "true"},
-            {text: "ABES" , correct: "false"},
+            {text: "AKG" , correct: "false"},
+            {text: "ABES" , correct: "true"},
             {text: "KNIT" , correct: "false"},
             {text: "IET" , correct: "false"},
 
@@ -15,16 +15,16 @@ const questions = [
     {
         question: "Which branch is best ?",
          answers: [
-            {text: "AIML(ye course ha, branch nhi)" , correct: "false"},
+            {text: "AIML" , correct: "false"},
             {text: "CS" , correct: "true"},
             {text: "IT" , correct: "false"},
-            {text: "ME" , correct: "false"},
+            {text: "CSE" , correct: "false"},
 
 
          ]
     },
     {
-        question: "Gaurav is best for DSA?",
+        question: "Gaurav sir is best for DSA?",
          answers: [
             {text: "YES" , correct: "false"},
             {text: "NO" , correct: "true"},
@@ -34,10 +34,10 @@ const questions = [
          ]
     },
     {
-        question: "Hosteller ?",
+        question: "How abes is established ?",
          answers: [
-            {text: "YES" , correct: "true"},
-            {text: "NO" , correct: "false"},
+            {text: "With hard work" , correct: "false"},
+            {text: "Galti Se" , correct: "true"},
             
 
 
