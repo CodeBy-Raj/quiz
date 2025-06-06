@@ -13,7 +13,7 @@ const questions = [
 
     },
     {
-        question: "Which branch is best ?",
+        question: "Which branch is most popular among computer science students?",
          answers: [
             {text: "AIML" , correct: "false"},
             {text: "CS" , correct: "true"},
@@ -24,7 +24,7 @@ const questions = [
          ]
     },
     {
-        question: "Gaurav sir is best for DSA?",
+        question: "Is participation in college events mandatory?",
          answers: [
             {text: "YES" , correct: "false"},
             {text: "NO" , correct: "true"},
@@ -34,10 +34,10 @@ const questions = [
          ]
     },
     {
-        question: "How abes is established ?",
+        question: "How do students usually describe their success in college?",
          answers: [
-            {text: "With hard work" , correct: "false"},
-            {text: "Galti Se" , correct: "true"},
+            {text: "Hard work" , correct: "true"},
+            {text: "Without efforts" , correct: "false"},
             
 
 
